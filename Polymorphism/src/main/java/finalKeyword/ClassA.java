@@ -1,5 +1,5 @@
 package finalKeyword;
-public class ClassA extends ClassB
+public class ClassA 
 {
 	public final void display()
 	{

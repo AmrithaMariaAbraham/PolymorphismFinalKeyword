@@ -1,5 +1,5 @@
 package finalKeyword;
-public class FinalKeyword extends ClassA
+public class FinalKeyword
 {
  final int a=5;
  public FinalKeyword()
@@ -15,7 +15,7 @@ public class FinalKeyword extends ClassA
 	{
 		FinalKeyword obj=new FinalKeyword();
 		System.out.println(obj.a);
-		obj.display();
+		//obj.display();
 	   
 	}
 }
